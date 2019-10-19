@@ -1,0 +1,18 @@
+Luncher
+
+
+1] Open Steam
+
+2] Click Library and find "Counter-Strike Global Offensive"
+
+3] Look for "Set Launch Options" in GENERAL tab
+
+4] Paste text above in there and press ok
+
+NOTE: Make sure CS:GO is closed before doing so
+
+#TEXT
+-----------------------------------------------------------------------------------------------------------------------------------
+-freq 77 -high -noforce -noforcemaccel -noforcemparms -noforcemspd -noforcercemspd -nojoy -novid -noheap -nod3d9ex -noaafonts -noipx -console +exec autoexec -threads 2 -cpuCount=2 -exThreads=1
+-----------------------------------------------------------------------------------------------------------------------------------
+#TEXT
